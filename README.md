@@ -37,13 +37,13 @@ In the world of data management and database systems, SQL (Structured Query Lang
 
 -   Understanding how to work with multiple tables and establish relationships between them.
 
-7. **Indexing and Optimization**
+7. **Optimization**
 
 -   Techniques for optimizing SQL queries and improving database performance.
 
-8. **Transactions and Concurrency**
+8. **Transactions**
 
--   Handling transactions and managing concurrent access to the database.
+-   Handling transactions.
 
 ### MySQL
 
@@ -113,6 +113,9 @@ In the world of data management and database systems, SQL (Structured Query Lang
 
 ### Week1
 
+-   [Day 1](https://youtu.be/cnuxjssGk-I)
+
 ### Week2
 
+-   [Day 6](https://youtu.be/OJYuVNFrknU)
 </details>
