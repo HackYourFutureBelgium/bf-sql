@@ -119,4 +119,6 @@ In the world of data management and database systems, SQL (Structured Query Lang
 
 -   [Day 6](https://youtu.be/OJYuVNFrknU)
 -   [Day 7](https://youtu.be/foN-pFrCSJE)
+-   [Day 10](https://youtu.be/WwnA0GLXtTk)
+
 </details>
